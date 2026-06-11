@@ -1,5 +1,5 @@
 
-# SQL Learning Cheat Sheet with Simple Explanations
+# SQL Learning Cheat Sheet with Simple Explanations 
 
 ## DDL (Data Definition Language)
 Used to create or modify database objects.
